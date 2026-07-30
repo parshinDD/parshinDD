@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:150a2e,50:5c33a8,100:39ff14&height=180&section=header&text=Привет, Я Даня%20Паршин&fontSize=50&fontColor=fff9ee&fontAlignY=38&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:150a2e,50:5c33a8,100:39ff14&height=180&section=header&text=Привет!%20Я%20Даня%20Паршин&fontSize=50&fontColor=fff9ee&fontAlignY=38&animation=fadeIn" width="100%"/>
 
 <h3 style="font-family: 'Unbounded', sans-serif;">Backend-разработчик (Junior) · Python / FastAPI / Django</h3>
 
@@ -140,8 +140,10 @@ class Daniil:
 
  😋 Открыт к предложениям о стажировке и Junior-позициях backend-разработчика
 
-<img src="https://tenor.com/ru/view/flowers-rostik-gif-13675743318134050824.gif" width="380px"/>
+<img src="https://media1.tenor.com/m/vcoAFzTNUAgAAAAd/flowers-rostik.gif" width="380px"/>
 
 <br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39ff14,50:5c33a8,100:150a2e&height=100&section=footer" width="100%"/>
 
 </div>
